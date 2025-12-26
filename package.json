@@ -1,18 +1,32 @@
 {
-  "name": "gamern",
+  "name": "graviton-surge",
   "version": "1.0.0",
+  "description": "A unique physics-based mobile game where you control gravitational forces to navigate through cosmic debris fields. Built with React Native and react-native-earl-gamepad.",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "ios": "expo start --ios"
   },
+  "keywords": [
+    "react-native",
+    "game",
+    "gamepad",
+    "gravity",
+    "physics",
+    "expo",
+    "mobile-game",
+    "react-native-earl-gamepad"
+  ],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "expo": "~54.0.30",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-earl-gamepad": "^0.7.3",
+    "react-native-safe-area-context": "^5.6.2"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
