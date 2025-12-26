@@ -54,7 +54,7 @@ A unique physics-based mobile game where you control gravitational forces to nav
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Swif7ify/Graviton-Surge
 cd graviton-surge
 
 # Install dependencies
